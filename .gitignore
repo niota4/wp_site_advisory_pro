@@ -1,0 +1,21 @@
+# WordPress development artifacts
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+*.code-workspace
+.idea/
+.vscode/
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Composer
+vendor/
+composer.lock
+
+# Node (dev tooling)
+node_modules/
